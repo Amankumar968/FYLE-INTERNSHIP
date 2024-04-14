@@ -11,7 +11,7 @@ Usage
 To run the application locally, follow these steps:
 
 
-You can access the hosted version of the application [here](https://fyle-internship-sigma.vercel.app/).
+You can access the hosted version of the application [here](https://fyle-internship-flame.vercel.app/).
 
 
 Technologies Used
